@@ -16,9 +16,7 @@ Python Backend Developer with 3+ years of experience at EY-Parthenon, building b
 ### 🚀 Featured Projects
 
 - Disease Detection Web Application – Flask, Machine Learning, CNNs
-- [Your upcoming backend project]
 
 ### 📫 Connect
 
-- LinkedIn: [Your LinkedIn URL]
-- Email: [Your professional email]
+- LinkedIn: https://www.linkedin.com/in/anirudh-singh-as/
